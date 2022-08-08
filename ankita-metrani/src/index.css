@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  font-family: inter;
+  background-color: rgba(26, 25, 32, 0.966);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

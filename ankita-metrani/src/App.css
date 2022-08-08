@@ -1,0 +1,20 @@
+.outer-container{
+  background-color: rgba(44, 43, 53, 0.918);
+  background-position:center;
+  width: 80%;
+  margin-left: 10%;
+  margin-top: 50px;
+  margin-bottom: 50px;
+ 
+}
+
+
+.App {
+  text-align: center;
+  background-color: rgba(52, 51, 66, 0.918);
+  background-position:center;
+  width: 60%;
+  margin-left: 20%;
+ 
+}
+

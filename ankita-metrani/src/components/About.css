@@ -1,0 +1,8 @@
+.about-interest{
+    color: beige;
+    margin: 10%;
+    text-align: justify;
+}
+.about-interest >h2{
+    text-align: left;
+}

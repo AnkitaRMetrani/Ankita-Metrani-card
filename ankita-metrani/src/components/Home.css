@@ -1,0 +1,70 @@
+.home {
+    color: aliceblue;
+}
+
+.home-img{
+    margin-top: 20px;
+    width: 100%;
+    height: 70vh;
+    border-style: none;
+    border-width: 0ch;
+    border-radius: 10px ;
+}
+
+.home > h6 {
+    color: rgb(245, 212, 223);
+}
+
+.buttons{
+    display: flex;
+    align-items: center;
+    margin: 10%;
+    margin-top: 0%;
+    justify-content: space-evenly;
+   
+}
+
+.mail-button{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    border-style: ridge;
+    border-width: 0px;
+    border-radius: 5px;
+    width: 150px;
+    height: 50px;
+    
+}
+
+.linkdin-button{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    border-style: groove;
+    border-width: 0px;
+    border-radius: 5px;
+    width: 150px;
+    height: 50px;
+    background-color: rgb(113, 169, 243);
+}
+
+.icon{
+    width: 30px;
+    height: 30px;
+    color: rgb(55, 56, 56);
+}
+
+ .icons {
+    width: 30px;
+    height: 30px;
+    color: rgb(236, 236, 236);
+}
+
+.mail-button > h4{
+    color: rgb(136, 136, 136);
+}
+.linkdin-button >p{
+    color: beige;
+    font-size: 20px;
+    
+}

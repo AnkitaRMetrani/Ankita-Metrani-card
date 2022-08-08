@@ -1,0 +1,28 @@
+.footer-icons{
+    background-color: rgba(26, 25, 32, 0.966);
+    border-style: none;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    height: 60px;
+    align-content: sp;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+
+    padding-left: 7%;
+    padding-right: 7%;
+       
+    
+}
+.f-icons{   
+    margin: 0 50;
+    
+    border-style: none;
+    box-sizing: border-box;
+    
+    color: rgb(197, 194, 194);
+    font-size: 40px;
+}
+
+
