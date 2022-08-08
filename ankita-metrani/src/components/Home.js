@@ -18,7 +18,7 @@ function Home() {
             <img className='home-img' src={pic} alt='Ankita Metrani'/>
             <h1>Ankita Metrani </h1>
             <h4> UI UX Designer</h4>
-            <h6> ankitametrani.com</h6>
+            <h6> ankitametrani@xyz.com</h6>
             <Buttons />
         </div>
         
